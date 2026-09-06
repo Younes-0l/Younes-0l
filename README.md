@@ -29,8 +29,8 @@
 ### Other
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+-------
 ## ⭐ Featured Projects
-
 ### 🎵 BeatFlow
 #### A modern music platform built with Django.
 - Personal music management
@@ -57,7 +57,11 @@
 
 ### 🌐 Portfolio
 #### My personal potfolio to know me better and see my works
-![https://younes-0l.github.io/portfolio/](https://shields.io/badge/-Portfolio-black?logo=google-chrome)
+[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan)](https://wakatime.com/@alan)
+
 ## 🔨 Currently Working On
+### 🎵 BeatFlow
+------
 ## 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Younes-0l&show__icons=true&theme=radical)
 ## 📫 Connect With Me
