@@ -15,6 +15,7 @@
 ### Backend
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ### Database
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,6 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ### Other
+![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 -------
@@ -62,11 +64,6 @@
 ### 🎵 BeatFlow
 ------
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/younes-0l/younes-0l/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
-
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=younes-0l&layout=compact&theme=nightowl)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=younes-0l&layout=compact&theme=ambient_gradient)
 ## 📫 Connect With Me
