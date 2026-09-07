@@ -67,3 +67,14 @@
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=younes-0l&layout=compact&theme=nightowl)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=younes-0l&layout=compact&theme=ambient_gradient)
 ## 📫 Connect With Me
+<div display="flex" gap="2rem">
+  <a href="https://github.com/Younes-0l">
+      <img width="50px" src="./github.svg">
+  </a>
+  <a href="https://t.me/Younes_0l">
+    <img width="50px" src="./telegram.svg">
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#advanced-search/to=younes2525.det%40gmail.com&subset=all&within=1d&sizeoperator=s_sl&sizeunit=s_smb">
+    <img width="50px" src="./gmail.svg">
+  </a>
+</div>
