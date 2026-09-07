@@ -57,11 +57,16 @@
 
 ### 🌐 Portfolio
 #### My personal potfolio to know me better and see my works
-[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan)](https://wakatime.com/@alan)
 
 ## 🔨 Currently Working On
 ### 🎵 BeatFlow
 ------
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Younes-0l&show__icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/younes-0l/younes-0l/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=younes-0l&layout=compact&theme=nightowl)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=younes-0l&layout=compact&theme=ambient_gradient)
 ## 📫 Connect With Me
