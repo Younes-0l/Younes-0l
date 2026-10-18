@@ -30,7 +30,7 @@
 
 -------
 ## ⭐ Featured Projects
-### 🎵 BeatFlow
+### 🎵 BeatVibe
 #### A modern music platform built with Django.
 - Personal music **management**
 - **Search** for songs
@@ -58,7 +58,7 @@
 #### My personal portfolio website to learn more about me and explore my work.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://younes-0l.github.io/portfolio/)
 ## 🔨 Currently Working On
-> ### 🎵 BeatFlow
+> ### 🎵 BeatVibe
 ------
 ## 📊 GitHub Stats
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=younes-0l&layout=compact&theme=ambient_gradient)
